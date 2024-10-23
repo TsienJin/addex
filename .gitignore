@@ -1,0 +1,8 @@
+
+
+### Ignore IDE files
+.idea/
+.vs-code/
+
+### Ignore MacOS files
+.DS_Store
